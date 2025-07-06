@@ -6,7 +6,6 @@ This repo is where I upload all the little Java programs I create every day — 
 
 ---
 
-
 ## 📝 Why am I doing this?
 
 - To track my progress 📈  
@@ -36,13 +35,14 @@ main/
 ├── README.md             ← This file!
 ├── LICENSE               ← MIT License — use it freely
 ├── .gitignore            ← Clean up unwanted files
-practice-questions/
-├── Q1_HelloWorld.java
-├── Q2_OddEven.java
-└── (more coming soon)
+├── src/                  ← All Java source files
+│   ├── AdultOrNot.java
+│   ├── Displayname.java
+│   ├── NumberOperation.java
+│   ├── OddorEven.java
+│   └── SumTwoNumbers.java
 
 
-Feel free to peek around, learn with me, or just say hi! 👋
 
-Happy coding! 💻✨  
+Happy coding ! 💻✨  
 — Rasleen
