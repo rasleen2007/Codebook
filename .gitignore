@@ -19,6 +19,24 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# virtual machine crash logs
 hs_err_pid*
 replay_pid*
+
+# IDE folders and files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Java build directories
+/bin/
+/out/
+/build/
+
+# System files
+.DS_Store
+Thumbs.db
+
