@@ -1,4 +1,4 @@
-//To input number from user and perform mathematical operations on it
+//To input number from user and perform mathematical operations on it 
 public class Main{
     public static void main(String[] args){
         //variables
