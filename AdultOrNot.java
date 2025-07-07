@@ -1,5 +1,5 @@
 //To input the age from user and tell wether its an adult or not
-import java.util.*;
+import java.util.*; 
 public class Q2{
     public static void main(String[] args){
     //Input
