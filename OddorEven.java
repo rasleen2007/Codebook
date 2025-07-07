@@ -3,7 +3,7 @@ import java.util.*;
 public class Q3{
     public static void main(String[] args){
         //Input
-        Scanner sc=new Scanner(System.in);
+        Scanner sc=new Scanner(System.in); 
         int Number=sc.nextInt();
         if(Number%2==0){
             System.out.println("even number");
