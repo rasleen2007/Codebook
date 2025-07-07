@@ -4,7 +4,7 @@ public class Q2{
     public static void main(String[] args){
         //Input
         Scanner sc= new Scanner(System.in);
-        int a= sc.nextInt();
+        int a= sc.nextInt(); 
         int b= sc.nextInt();
         if(a==b){
             System.out.println("Both values are equal");
