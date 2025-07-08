@@ -1,6 +1,6 @@
 //Q: Write a Java program that takes an integer input from the user (1, 2, or 3) and prints a greeting based on the number.
 import java.util.*; 
-public class Q2{
+public class greetingbuttonusingSwitch{
     public static void main(String[] args){
         //Input
         Scanner sc= new Scanner(System.in);
