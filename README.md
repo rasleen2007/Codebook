@@ -41,6 +41,10 @@ main/
 │   ├── NumberOperation.java
 │   ├── OddorEven.java
 │   └── SumTwoNumbers.java
+|   └── Comparetwonumbers
+|   └── Greetbybutton
+|   └── greetingbuttonusingSwitch
+|   └── HelloWorldforloop
 
 
 
