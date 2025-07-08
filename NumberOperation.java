@@ -1,5 +1,5 @@
 //To input number from user and perform mathematical operations on it 
-public class Main{
+public class NumberOperation{
     public static void main(String[] args){
         //variables
         int a=108043;
