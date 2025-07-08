@@ -1,6 +1,6 @@
 //Take input of 2 variable and print there sum
 import java.util.*;
-public class Q1{
+public class SumTwoNumbers{
     public static void main(String[] args){
         //Input
         Scanner sc=new Scanner(System.in);
