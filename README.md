@@ -29,23 +29,24 @@ I’m organizing everything by topic and problem — from basics to logic-based 
 ---
 
 ## 📁 Project Structure
+
+```
 main/
-├── README.md             ← This file!
-├── LICENSE               ← MIT License — use it freely
-├── .gitignore            ← Clean up unwanted files
-├── src/                  ← All Java source files
+├── README.md                  ← This file!
+├── LICENSE                    ← MIT License — use it freely
+├── .gitignore                 ← Clean up unwanted files
+├── src/                       ← All Java source files
 │   ├── AdultOrNot.java
 │   ├── Displayname.java
 │   ├── NumberOperation.java
 │   ├── OddorEven.java
-│   └── SumTwoNumbers.java
-|   └── Comparetwonumbers
-|   └── Greetbybutton
-|   └── greetingbuttonusingSwitch
-|   └── HelloWorldforloop
-|   └── Countingbyforloop
-
-
+│   ├── SumTwoNumbers.java
+│   ├── Comparetwonumbers/
+│   ├── Greetbybutton/
+│   ├── greetingbuttonusingSwitch/
+│   ├── HelloWorldforloop/
+│   └── Countingbyforloop/
+```
 
 Happy coding ! 💻✨  
 — Rasleen
