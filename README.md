@@ -29,8 +29,6 @@ I’m organizing everything by topic and problem — from basics to logic-based 
 ---
 
 ## 📁 Project Structure
-
-```bash
 main/
 ├── README.md             ← This file!
 ├── LICENSE               ← MIT License — use it freely
@@ -45,6 +43,7 @@ main/
 |   └── Greetbybutton
 |   └── greetingbuttonusingSwitch
 |   └── HelloWorldforloop
+|   └── Countingbyforloop
 
 
 
