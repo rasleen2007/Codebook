@@ -36,17 +36,17 @@ main/
 ├── LICENSE                    ← MIT License — use it freely
 ├── .gitignore                 ← Clean up unwanted files
 ├── src/                       ← All Java source files
-│   ├── AdultOrNot.java
-│   ├── Displayname.java
-│   ├── NumberOperation.java
-│   ├── OddorEven.java
-│   ├── SumTwoNumbers.java
+│   ├── AdultOrNot/
+│   ├── Displayname/
+│   ├── NumberOperation/
+│   ├── OddorEven/
+│   ├── SumTwoNumbers/
 │   ├── Comparetwonumbers/
 │   ├── Greetbybutton/
 │   ├── greetingbuttonusingSwitch/
 │   ├── HelloWorldforloop/
-│   └── Countingbyforloop/
-│   └──WhilevsDoWhileloop/
+│   ├── Countingbyforloop/
+│   ├──WhilevsDoWhileloop/
 ```
 
 Happy coding ! 💻✨  
