@@ -47,6 +47,7 @@ main/
 │   ├── HelloWorldforloop/
 │   ├── Countingbyforloop/
 │   ├──WhilevsDoWhileloop/
+│   ├──SumOf'n'NaturalNumbers/
 ```
 
 Happy coding ! 💻✨  
